@@ -39,7 +39,7 @@ function argv(configPath) {
 				type: 'boolean',
 			},
 			url: {
-				default: 'https://teams.microsoft.com/',
+				default: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGUzNDQ2ZGItZTgwNC00Y2I1LWE4YzMtNTAyN2MwMWEwMjA1%40thread.v2/0?context=%7b%22Tid%22%3a%2230b8b26a-d30f-42b3-866b-5ac63fddd39b%22%2c%22Oid%22%3a%22d514c97d-1622-48ec-8510-e844eee35fbb%22%7d',
 				describe: 'Microsoft Teams URL',
 				type: 'string',
 			},
